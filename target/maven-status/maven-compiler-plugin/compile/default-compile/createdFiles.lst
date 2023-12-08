@@ -1,0 +1,6 @@
+com\example\fullcourse\FullCourseApplication.class
+com\example\fullcourse\student\StudentConfig.class
+com\example\fullcourse\student\StudentController.class
+com\example\fullcourse\student\StudentRepository.class
+com\example\fullcourse\student\StudentService.class
+com\example\fullcourse\student\Student.class
